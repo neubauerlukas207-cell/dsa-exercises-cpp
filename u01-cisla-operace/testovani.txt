@@ -1,0 +1,19 @@
+Test 1 – faktorialNerek(5)
+Popis: Ověření výpočtu faktoriálu čísla 5 (nerekurzivní metoda).
+Očekávaný výsledek: 120
+Získaný výsledek: 120
+
+Test 2 – mocninaR(2,4)
+Popis: Ověření výpočtu mocniny čísla 2 na 4. rekurzivní metodou.
+Očekávaný výsledek: 16
+Získaný výsledek: 16
+
+Test 3 – mocninaNerek(2,4)
+Popis: Ověření výpočtu mocniny čísla 2 na 4. nerekurzivní metodou.
+Očekávaný výsledek: 16
+Získaný výsledek: 16
+
+Test 4 – zjistiPocetKladnych({1, -3, 5, 0, 8, -2}, 6)
+Popis: Ověření funkce pro zjištění počtu kladných čísel v poli.
+Očekávaný výsledek: 3
+Získaný výsledek: 3
