@@ -1,0 +1,25 @@
+
+Porovnání mého řešení z úkolu 01 s předloženým řešením:
+
+1. Metoda faktorialNerek
+   - Moje řešení: rekurzivní varianta.
+   - Předložené řešení: iterativní varianta.
+   - Složitost u obou: O(n).
+
+2. Metoda mocninaR
+   - Moje řešení: rekurzivní, s návratovou hodnotou z rekurzivního volání.
+   - Předložené řešení: rekurzivní; oproti mému nemá explicitní návratový výraz u rekurzivního kroku.
+   - Složitost u obou: O(m).
+
+3. Metoda mocninaNerek
+   - Moje řešení: iterativní násobení základu c v každé iteraci.
+   - Předložené řešení: iterativní; vzorec se liší.
+   - Složitost u obou: O(m).
+
+4. Metoda zjistiPocetKladnych
+   - Moje řešení: lineární průchod polem a sčítání kladných.
+   - Předložené řešení: stejný princip – jeden průchod polem.
+   - Složitost u obou: O(n).
+
+Závěr:
+Moje i předložené řešení mají u uvedených metod lineární časovou složitost. Liší se převážně stylem (rekurze vs. iterace) a dílčími detaily implementace.
